@@ -1,12 +1,12 @@
 {
-  "name": "coreproc/crypto-guard",
+  "name": "IDEXX/crypto-guard",
   "description": "Gives a simple interface for encryption and decryption of keys",
   "keywords": [
     "encryption",
     "decryption"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/CoreProc/crypto-guard",
+  "homepage": "https://github.com/IDEXX/crypto-guard",
   "authors": [
     {
       "name": "Chris Bautista",
