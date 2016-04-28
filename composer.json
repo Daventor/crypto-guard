@@ -1,5 +1,5 @@
 {
-  "name": "IDEXX/crypto-guard",
+  "name": "idexx/crypto-guard",
   "description": "Gives a simple interface for encryption and decryption of keys",
   "keywords": [
     "encryption",
